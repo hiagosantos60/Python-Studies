@@ -1,0 +1,1 @@
+Este repositório foi criado pensando em mostrar um pouco dos meus estudos de python com diversos projetos e estudos, sempre buscando melhorar minhas habilidades e boas práticas com código.
