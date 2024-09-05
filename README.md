@@ -1,2 +1,1 @@
-Este repositório foi criado pensando em mostrar um pouco dos meus estudos de python com diversos projetos e estudos.
-Sempre buscando melhorar minhas habilidades e boas práticas com código. Fique a vontade para explorar e utilizar os códigos.
+This repository was created to showcase my Python studies, covering various projects and practices. I am constantly striving to improve my skills and follow best coding practices. Feel free to explore and use the code provided here
